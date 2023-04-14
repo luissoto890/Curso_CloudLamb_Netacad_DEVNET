@@ -30,3 +30,6 @@ print (empleado1.mostrar_informacion())
 #aplicando el método de aumento de salario y luego mostrando la información actualizada:
 empleado1.aumentar_salario(2000)
 print (empleado1.mostrar_informacion())
+
+#ahora estoy realizando un breve cambio en este código para ver cómo funciona git y github
+print ("Esto es algo nuevo")
